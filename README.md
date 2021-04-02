@@ -12,6 +12,8 @@ This is a project for a challenge in a hiring process. It was made within one we
 
 The project uses Python with fastapi, React and PostgreSQL
 
+To be able to run the project you will need to generate a key within google and change it in `frontend/public/index.html`
+
 ## Running with Docker and docker-compose
 
 First you can build the docker images with `docker-compose build`
